@@ -1,0 +1,18 @@
+Is a way to store and organization data so that it can be used efficiently
+Is a colection of data Values, the relationships among them
+
+				Arrays in JS
+
+
+js arrays are zero indexed and the insertion order is maintainable 
+Arrays has many methods like push,unshift(for entering the value at the begining),pop(for removing from the last of arrays),shift(removing from the top of array))
+Map,filter, reduce, concat,slice
+
+Insert/remove from end O(1)
+Insert/remove from beginning O(1)
+Access 0(1)
+Search 0(n)
+push/pop O(1)
+Shift/unshift/concat/slice/splice  O(n)
+forEach/map/filter/reduce -O(n)
+splice is used to add or remove elements from there index 

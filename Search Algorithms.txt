@@ -1,0 +1,8 @@
+				Search Algorithm
+there was two search algorithm binary search and the linear search both are used to search for index number
+
+				Linear Search
+in linear search the array with there index and there was no sorted arrat is needed 
+
+				Binary Search 
+in binary search the array should be sorted and in this search the sart searching from the middle 

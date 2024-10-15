@@ -1,0 +1,13 @@
+algorithm is a set of well defined structure to solve any problem
+
+			Algorithm of adding two numbers
+Two numbers a and b------->1.Add numbers usig "+"-------->sum of "a" and "b"
+			   2.Return the Value
+Characterstics:
+Well defined inputs and Output
+Each step should be clear
+language independent
+
+One problem can be solved in many ways using different algorithms
+Every algorithm comes with its own performane 
+ 

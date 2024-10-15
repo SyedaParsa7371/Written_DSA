@@ -1,0 +1,3 @@
+Recursion is a problem solving techniques where we break the solutions into smaller instances
+Recursion is a function calls it self
+Recursion solution needs to have a basse solution and need a condition to terminate the recursion 

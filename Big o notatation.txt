@@ -1,0 +1,68 @@
+The Worst Case Complexity is (Big-O Notation)
+it decribe the complexity of an algorithm using algebric terms
+TWO IMPORTANT CHARACTERSTICS
+-It is Expressed in terms of the input
+-It focuses on the bigger picture without getting caught up in the minute details
+
+POINT NO 1:
+---Formula For the Calculation of time complexity Big-O Notation
+			Formula=n+2
+The time complexity is depend on the input size
+Big O is expressed in the terms of input 
+
+POINT NO 2:
+if the numbers of input is increase to larger number we minus the +2 from the complexity formula
+
+
+Time Complexity of Summation is O(n)-Linear the size of input is increases so the complexity is also increases 
+The complexity in loop is increases because of the repeation of loop 
+
+---Formula For the Calculation of time complexity Big-O Notation if we using loops 
+			Formula=O(n^n)
+
+---Formula For the Calculation of time complexity Big-O Notation input sizes reduces by half every iteration
+			Formula=O(logn)-logarithmic
+
+Three Space time Formula:
+O(1)-constant
+O(n)-Linear
+O(logn)-logarithmic
+
+
+Three Space Complexity Formula:
+O(1)-constant
+O(n)-Linear
+O(logn)-logarithmic
+
+
+					OBJECTS-BIG-O
+
+An object is a collection of key value pairs
+These properties is present in an objects 
+
+TIME COMPLEXITY 
+
+Insert-O(1)
+Remove-O(1)
+Access-O(1)
+Search-O(1)
+
+Methods OF Objects 
+
+Objects.keys()-O(n)
+Objects.values()-O(n)
+Objects.enteries()-O(n)
+
+					ARRAYS -BIG-O
+An array is an Ordered collection of Values
+it is in odered form it is very important to take care of indexes when we perform an action on the arrays
+TIME COMPLEXITY 
+Insert/ remove from the begining -O(n) Linear because index has to reset for the every remaining error
+Insert/ remove from the end-O(1) Constant
+Access -O(1) Constant
+Search -O(n) Linear because we doesnot know the the index of array
+Methods OF Arrays 
+Push/Pop -O(1) Constant
+Shift/Unshift/Concat/Slice/splice -O(n)Linear 
+forEach/Map/Filter/Reduce -O(n)Linear  
+

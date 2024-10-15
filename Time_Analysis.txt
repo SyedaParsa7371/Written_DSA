@@ -1,0 +1,23 @@
+There are many ways to solve one problem and they haave different time complexity
+When we talk about performance, we can use absolute measure
+absolute running time of an algorithm cannot be predicted it depend on many factors
+-Programming language used to implement the algorithm
+-The speed of computers in which program run
+-Other programs run on same time
+
+The performance of an algori is base on the input size and the two factors 
+Time Complexity:amount of time take by an algoritm to run,as a function of input size.
+Space Complexity:amount of memory take by an algoritm to run,as a function of input size.
+
+the input size and the time complexity depeneds on the algorthm analaysis.
+
+There was no one solution thst works every time you should always know multiple ways to solve the single problem and use the best solution 
+---How to represent time complexity
+Asymptotic notations is used to measure time and space complexity
+There are three ways of notations:
+1.Big-O notation __Worst Case Complexity
+2.Omega Notation__Best Case Complexity
+3.Theta Notation__Average Case Complexity
+
+
+ 

@@ -1,0 +1,11 @@
+				Sorting Algorithm
+there was four 
+-Bubble Sort
+-Insertion Sort
+-Quick Sort
+-Merge Sort
+
+				Bubble Sort
+
+It is a poor sorting algorithm and it is use as introductory sorting algorithm 
+compare adjacent elements in the array and swap the positions if they are not in the intended order
